@@ -4,6 +4,28 @@
   "description": "A step-by-step guide to set up a CRUD RESTful API, using AWS CLI, DynamoDB and Lambda",
   "author": "Rich Plastow",
   "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "amazon-web-services",
+    "api-gateway",
+    "api",
+    "aws-cli",
+    "aws",
+    "cloudwatch",
+    "cognito",
+    "dynamodb",
+    "guide",
+    "iam",
+    "jwt",
+    "json-web-token",
+    "lambda",
+    "microservice",
+    "restful-api",
+    "restful",
+    "serverless",
+    "step-by-step-guide",
+    "step-by-step"
+  ],
   "scripts": {
     "test": "node test.mjs"
   },
